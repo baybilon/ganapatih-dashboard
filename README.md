@@ -39,3 +39,7 @@ To run this project, you will need to add the following environment variables to
 
 `DATABASE_URL`
 
+# Clerk login
+
+Register or login to use dashboard
+
