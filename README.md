@@ -9,7 +9,7 @@ This are the front end of the store
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/baybilon/ganapatih-dashboard
 ```
 
 Go to the project directory
