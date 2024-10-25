@@ -1,5 +1,5 @@
 
-# E - commerce
+# E - commerce dashboard
 
 This are the front end of the store
 
